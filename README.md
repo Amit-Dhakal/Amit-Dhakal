@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-**Amit-Dhakal/Amit-Dhakal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on : Spring Boot & Microservice Projects 
 - 🌱 I’m currently learning : Make Application Scalable & Low cost Deployment
 - 👯 I’m looking to collaborate on : Video Streaming Application on Large Scale and Short URL Generator
