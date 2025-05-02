@@ -1,9 +1,9 @@
 ## Hi there 👋,I am Amit Dhakal
 
-- 🔭 I’m currently working on : Spring Boot & Microservice Projects 
-- 🌱 I’m currently learning : Make Application Scalable & Low cost Deployment
-- 👯 I’m looking to collaborate on : Video Streaming Application on Large Scale and Short URL Generator
-- 🤔 I’m looking for help with : End Users for Short Url Generator  
+- 🔭 I’m currently working on : Video Streaming Application on Large Scale 
+- 🌱 I’m currently learning : Increase Scalablility & Low cost Deployment
+- 👯 I’m looking to collaborate on : Short URL Generator
+- 🤔 I’m looking for help with :  I’m currently looking for end users to try out my Short URL Generator — your feedback would mean a lot!"
 - 💬 Ask me about : Collaboration & Tech Supports
 - 📫 How to reach me: a.dhakal423@gmail.com
 - 😄 Pronouns: Amit Dhakal
