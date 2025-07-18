@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love Tech 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Amit Dhakal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Amit Dhakal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a.dhakal423@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Amit%20Dhakal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Amit%20Dhakal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a.dhakal423@gmail.com) 
 
 # 💻 Tech Stack:
 
